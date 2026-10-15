@@ -1,9 +1,3 @@
-Nama: Septiana Sulastri
-
-NIM: 202210370311075
-
-
-
 
 📊 Dataset
 
