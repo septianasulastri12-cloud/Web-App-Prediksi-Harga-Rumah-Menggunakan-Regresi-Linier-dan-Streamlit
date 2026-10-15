@@ -87,9 +87,7 @@ menu = st.sidebar.radio(
 
 st.sidebar.markdown("---")
 st.sidebar.markdown("""
-**UAP Machine Learning**  
-Nama: Septiana Sulastri  
-NIM: 202210370311075  
+ 
 Version: 1.0  
 September 2025
 """)
